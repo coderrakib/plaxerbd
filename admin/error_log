@@ -1,0 +1,50 @@
+[27-Nov-2020 11:42:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/dashboard.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[27-Nov-2020 12:21:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/winner-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[27-Nov-2020 12:21:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/winner-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[27-Nov-2020 12:21:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/winner-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[27-Nov-2020 12:21:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/winner-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[28-Nov-2020 08:46:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/dashboard.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[29-Nov-2020 07:18:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 07:18:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 07:19:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:32:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:32:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:32:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:32:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:33:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:33:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:33:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:33:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 11:33:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 12:09:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 12:11:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 12:12:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 12:13:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 12:13:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[29-Nov-2020 12:13:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/plaxerbd/public_html/admin/include/leftsidebar.php on line 186
+[05-Dec-2020 10:57:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/tournament-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[05-Dec-2020 10:57:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/tournament-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[05-Dec-2020 10:57:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/tournament-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[05-Dec-2020 10:58:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/tournament-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[11-Dec-2020 02:23:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/edit-tournament.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[11-Dec-2020 10:26:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/plaxerbd/public_html/admin/tournament-lists.php:2) in /home/plaxerbd/public_html/admin/include/navbar.php on line 7
+[11-Dec-2020 11:40:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/plaxerbd/public_html/admin/running-tournament.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/plaxerbd/public_html/admin/running-tournament.php on line 11
+[11-Dec-2020 11:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/plaxerbd/public_html/admin/running-tournament.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/plaxerbd/public_html/admin/running-tournament.php on line 11
+[11-Dec-2020 11:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/plaxerbd/public_html/admin/running-tournament.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/plaxerbd/public_html/admin/running-tournament.php on line 11
+[11-Dec-2020 11:40:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/plaxerbd/public_html/admin/running-tournament.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/plaxerbd/public_html/admin/running-tournament.php on line 11
+[11-Dec-2020 11:40:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/plaxerbd/public_html/admin/running-tournament.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/plaxerbd/public_html/admin/running-tournament.php on line 11
